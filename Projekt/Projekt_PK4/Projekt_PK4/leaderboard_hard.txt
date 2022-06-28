@@ -1,0 +1,10 @@
+Wafel,6000
+play1,5500
+Wafel,3200
+Wafel,2900
+play1,2000
+QWERT,1900
+Wafel,1900
+Wafel,1600
+Wafel,1500
+AAAAA,1300

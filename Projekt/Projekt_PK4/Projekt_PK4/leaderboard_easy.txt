@@ -1,0 +1,10 @@
+play1,7000
+Wafel,1600
+play1,1500
+play1,1400
+Wafel,1300
+play1,1300
+play1,1300
+play1,1200
+Wafel,1100
+play1,1100

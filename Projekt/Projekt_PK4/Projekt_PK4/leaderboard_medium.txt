@@ -1,0 +1,10 @@
+TestM,1500
+Wafel,1500
+TestM,1400
+Wafel,1300
+Wafel,1200
+qwert,1100
+qwert,1100
+Wafel,1100
+play1,1000
+play1,900
